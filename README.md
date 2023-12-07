@@ -18,4 +18,4 @@ Install the required packages by running the following command.
 
 Run the following command in terminal opened at the main folder.
     
-    python scrape_google_groups.py
+    python ScrapeGoogleGroups.py
